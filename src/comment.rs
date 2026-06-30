@@ -1,0 +1,8 @@
+fn main(){
+//This is a comment.
+
+/*This is a multiline comment. 
+ *
+ Btoom
+ */
+}
